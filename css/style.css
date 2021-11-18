@@ -1,10 +1,49 @@
 body{
     background-color: white;
 }
-button{
-    border-radius: 20px;
+
+.blue{
+    border-radius: 50px;
     text-decoration: none;
     color: #ffffff;
     background-color: #055EC4;
     width: 900px;
+    height: 1700px;
+    margin-left: 60px;
+    margin-top: 80px;
+    padding-top: 20px;
+  }
+
+  .white{
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    background-color: #ffffff;
+    width: 780px;
+    height: auto;
+    margin-left: 60px;
+    margin-top: 90px;
+    padding-bottom: 10px;
+  }
+
+  .qr{
+      margin-left: 55px;
+      margin-top: 40px;
+      width: 660px;
+  }
+
+  .textqr{
+      line-height: 50px;
+      margin-top: 0px;
+      margin-left: 70px;
+      font-size: 37px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .textbase{
+      color: #055EC4;
+      font-size: 30pt;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-top: 40px;
+      margin-left: 40px;
   }
