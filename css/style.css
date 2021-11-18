@@ -7,9 +7,9 @@ body{
     text-decoration: none;
     color: #ffffff;
     background-color: #055EC4;
-    width: 900px;
+    width: 860px;
     height: 1700px;
-    margin-left: 60px;
+    margin-left: 50px;
     margin-top: 80px;
     padding-top: 20px;
   }
@@ -19,7 +19,7 @@ body{
     text-decoration: none;
     color: black;
     background-color: #ffffff;
-    width: 780px;
+    width: 740px;
     height: auto;
     margin-left: 60px;
     margin-top: 90px;
@@ -28,21 +28,21 @@ body{
 
   .qr{
       margin-left: 55px;
-      margin-top: 40px;
-      width: 660px;
+      margin-top: 50px;
+      width: 630px;
   }
 
   .textqr{
       line-height: 50px;
       margin-top: 0px;
       margin-left: 70px;
-      font-size: 37px;
+      font-size: 34px;
       font-family: Arial, Helvetica, sans-serif;
   }
 
   .textbase{
       color: #055EC4;
-      font-size: 30pt;
+      font-size: 26pt;
       font-family: Arial, Helvetica, sans-serif;
       margin-top: 40px;
       margin-left: 40px;
